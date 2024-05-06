@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -20,6 +18,7 @@
 ------
 <div align="center">
 <a href="https://www.linkedin.com/in/dana-dascalescu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=fgH5_DcAAAAJ&hl=en" target="blank"><img align="center" src="https://github.com/sean-chester/sean-chester.github.io/blob/master/_includes/icon-google-scholar.svg" alt="" height="40" width="50" /></a>
 <a href="https://stackoverflow.com/users/19548908/dana-d%c4%83sc%c4%83lescu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/danadascalescu00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="" height="30" width="40" /></a>
 <a href="https://huggingface.co/danadascalescu" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="" height="40" width="50" /></a>
