@@ -23,7 +23,7 @@
 ------
 <div align="center">
 <a href="https://www.linkedin.com/in/dana-dascalescu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=fgH5_DcAAAAJ&hl=en" target="blank"><img align="center" src="https://github.com/sean-chester/sean-chester.github.io/blob/master/_includes/icon-google-scholar.svg" alt="" height="40" width="50" /></a>
+<!-- <a href="https://scholar.google.com/citations?user=fgH5_DcAAAAJ&hl=en" target="blank"><img align="center" src="https://github.com/sean-chester/sean-chester.github.io/blob/master/_includes/icon-google-scholar.svg" alt="" height="40" width="50" /></a> -->
 <a href="https://stackoverflow.com/users/19548908/dana-d%c4%83sc%c4%83lescu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/danadascalescu00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="" height="30" width="40" /></a>
 <a href="https://huggingface.co/danadascalescu" target="blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="" height="40" width="50" /></a>
