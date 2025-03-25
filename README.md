@@ -10,6 +10,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=mlflow)&nbsp;
 
 
 ![PyTorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
