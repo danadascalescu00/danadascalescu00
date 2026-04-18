@@ -1,4 +1,4 @@
-Most of my work is in applied ML, focused on LLM reliability and evaluation in real-world systems that hold up beyond the demo stage.
+Most of my work is in applied ML, focused on LLM reliability and evaluation in real-world systems — the kind that hold up beyond the demo stage.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
